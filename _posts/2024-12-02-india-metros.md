@@ -31,7 +31,7 @@ In the Indian context, these factors are very important to consider given the ra
 One can see that prior to 2014, there were 4 operational metro systems throughout India - and today, this number stands at 17, a considerable increase in the visibility of metro systems all around the country, clearly highlighting the current government's focus on metro development - and it is set to grow further, as the government intends to further construct at least 15 to 20 more [brand new metro systems][new-metros-india] in many other cities.
 
 <figure>
-  <img src="/assets/img/metro-post/bangalore_metro.png" alt="Part of the Bengaluru Metro under construction"/>
+  <img src="/assets/img/metro-post/bangalore_metro.jpg" alt="Part of the Bengaluru Metro under construction"/>
   <figcaption><font color="blue">A part of the Namma (Bengaluru) Metro under construction</font></figcaption>
 </figure>
 
