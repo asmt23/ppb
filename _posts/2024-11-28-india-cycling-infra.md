@@ -64,23 +64,23 @@ An example of these concerns playing out in an undesired way can be seen in [Cha
 
 All things considered, it is reasonable to think that there is a good scope for cycling to be made a popular recreational activity and a realistic commuting option for people residing in Indian cities. A change in priorities is essental, and a mindset shift is needed to think of cycling in a serious light. There already are examples aplenty of places where cycling policies have worked out, there are good organizational structures in practice that can be applied to Indian cities, and the ever-worsening air quality and increasing rates of health problems in cities are seriously compelling reasons to really give a policy-level push to the promotion of cycling. The only major problem is a lack of vision of a cycling-oriented urban future, and that will take a fair bit of introspection among the people of urban India - they, after all, have to decide whether they aspire to commute using a Fortuner, or a Hero! 
 
-[cycle-sales]:(https://www.statista.com/outlook/mmo/bicycles/worldwide#unit-sales)
-[NL]:(https://www.government.nl/topics/bicycles)
-[DK]:(https://denmark.dk/people-and-culture/biking)
-[no-cycle]:(https://www.ipsos.com/en/global-advisor-cycling-across-the-world-2022)
-[census-2011]:(https://censusindia.gov.in/nada/index.php/catalog/13954)
+[cycle-sales]: https://www.statista.com/outlook/mmo/bicycles/worldwide#unit-sales
+[NL]: https://www.government.nl/topics/bicycles
+[DK]: https://denmark.dk/people-and-culture/biking
+[no-cycle]: https://www.ipsos.com/en/global-advisor-cycling-across-the-world-2022
+[census-2011]: https://censusindia.gov.in/nada/index.php/catalog/13954
 [rural-growth]: https://www.sciencedirect.com/science/article/abs/pii/S0966692324001595
-[affluent]:(https://www.businesstoday.in/magazine/luxury-special-2020/story/when-the-rich-hit-the-streets-277047-2020-10-29)
-[apathy-india]:(https://www.sciencedirect.com/science/article/pii/S1877042813046016)
-[1991-reforms]:(https://trends.ufm.edu/en/article/indias-liberalization-1991/)
-[eurovelo]:(https://en.eurovelo.com/about-us)
-[externalities]:(https://www.investopedia.com/terms/e/externality.asp)
-[big-cities]:(https://www.dezeen.com/2022/06/03/cycling-cities-seismic-shift-coronavirus-pandemic/)
-[bogota]:(https://transformative-mobility.org/cycling-infrastructure-in-cities-bogotas-ambitious-bicycle-network-expansion/)
-[paris]:(https://urbancyclinginstitute.org/transforming-paris-from-below-cycling-as-a-social-movement/)
-[skywalks]:(https://www.theguardian.com/cities/2014/nov/27/mumbai-skywalks-are-these-elevated-paths-ugly-caterpillars-or-precious-public-space)
-[CFI]:(https://www.cfiindia.in/about-1)
-[ITDP]:(https://itdp.in/what-we-do/)
-[ECF]:(https://ecf.com/about-us)
-[ciudad-real]:(https://www.forbes.com/sites/jamesasquith/2019/11/16/welcome-to-the-1-billion-abandoned-ghost-airportthat-just-received-its-first-flight-after-nine-years/)
+[affluent]: https://www.businesstoday.in/magazine/luxury-special-2020/story/when-the-rich-hit-the-streets-277047-2020-10-29
+[apathy-india]: https://www.sciencedirect.com/science/article/pii/S1877042813046016
+[1991-reforms]: https://trends.ufm.edu/en/article/indias-liberalization-1991/
+[eurovelo]: https://en.eurovelo.com/about-us
+[externalities]: https://www.investopedia.com/terms/e/externality.asp
+[big-cities]: https://www.dezeen.com/2022/06/03/cycling-cities-seismic-shift-coronavirus-pandemic/
+[bogota]: https://transformative-mobility.org/cycling-infrastructure-in-cities-bogotas-ambitious-bicycle-network-expansion/
+[paris]: https://urbancyclinginstitute.org/transforming-paris-from-below-cycling-as-a-social-movement/
+[skywalks]: https://www.theguardian.com/cities/2014/nov/27/mumbai-skywalks-are-these-elevated-paths-ugly-caterpillars-or-precious-public-space
+[CFI]: https://www.cfiindia.in/about-1
+[ITDP]: https://itdp.in/what-we-do/
+[ECF]: https://ecf.com/about-us
+[ciudad-real]: https://www.forbes.com/sites/jamesasquith/2019/11/16/welcome-to-the-1-billion-abandoned-ghost-airportthat-just-received-its-first-flight-after-nine-years/
 [chandigarh]: https://timesofindia.indiatimes.com/city/chandigarh/cycle-tracks-in-chandigarh-a-disappointment-of-neglect-and-encroachment/articleshow/114481481.cms
